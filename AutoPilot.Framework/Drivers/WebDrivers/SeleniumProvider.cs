@@ -3,7 +3,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 
-namespace AutoPilot.Framework.WebDrivers
+namespace AutoPilot.Framework.Drivers.WebDrivers
 {
     public class SeleniumProvider : IWebAutomationProvider
     {

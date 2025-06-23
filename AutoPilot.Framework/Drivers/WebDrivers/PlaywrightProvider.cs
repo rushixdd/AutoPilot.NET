@@ -4,7 +4,7 @@ using OpenQA.Selenium;
 using System;
 using System.Threading.Tasks;
 
-namespace AutoPilot.Framework.WebDrivers
+namespace AutoPilot.Framework.Drivers.WebDrivers
 {
     public class PlaywrightProvider : IWebAutomationProvider
     {

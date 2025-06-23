@@ -11,7 +11,7 @@ namespace demoqa.Tests.Tests.Web
         [Test]
         public void AddBookToCollection_ShouldAppearInProfile()
         {
-            LoginPage loginPage = new LoginPage(Provider);
+            LoginPage loginPage = new LoginPage(WebProvider);
             loginPage.NavigateToLoginPage();
         }
     }
