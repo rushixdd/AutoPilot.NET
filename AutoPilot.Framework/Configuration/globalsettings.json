@@ -1,0 +1,6 @@
+{
+    "Platform": "Web",
+    "Framework": "selenium", // or "playwright"
+    "Browser": "chrome",
+    "BaseUrl": "https://example.com"
+}

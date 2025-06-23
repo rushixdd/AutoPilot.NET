@@ -1,0 +1,12 @@
+{
+    "Platform": "Web",
+    "Framework": "selenium",
+    "Browser": "chrome",
+    "BaseUrl": "https://demoqa.com",
+    "ApiBaseUrl": "https://demoqa.com/api",
+    "Mobile": {
+        "PlatformName": "Android",
+        "DeviceName": "emulator-5554",
+        "AppPath": "/apps/DemoQA.apk"
+    }
+}
